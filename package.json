@@ -1,0 +1,19 @@
+{
+  "name": "temporary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rolldown -c",
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mateja176)",
+  "license": "MIT",
+  "type": "module",
+  "description": "",
+  "devDependencies": {
+    "rolldown": "^0.14.0",
+    "typescript": "^5.6.3",
+    "vercel": "^38.0.0"
+  }
+}
